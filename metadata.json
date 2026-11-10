@@ -1,0 +1,6 @@
+{
+  "name": "Karaoke Studio",
+  "description": "Reproductor de karaoke profesional con supresión de voz en tiempo real, sincronización de letras LRC, modo video, autotune y grabación en vivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
